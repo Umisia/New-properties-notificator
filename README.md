@@ -1,0 +1,1 @@
+Code created to help looking for properties to rent. It checks the links every 30 minutes and sends an email with new listings. Stores data in shelve files.
